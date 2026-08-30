@@ -62,3 +62,7 @@ px tsc --noEmit.
 - Added live inputs for Metal (chips), Weight (numeric text input with decimal guard), and Making Charge (Modal sheet dropdown from 0-25%).
 - Plumbed accurate breakdown metrics for metal value, making, GST, and rounded final total strictly formatted via \ormatCurrency\ with paise precision.
 
+
+### 2026-08-30
+- **What changed:** Committed all current files and pushed to GitHub repository (https://github.com/punitkumarrai/jmdjapp.git). Fixed nested Git repository issue in the mobile folder.
+- **Why:** As requested by the user.
